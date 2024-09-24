@@ -1,1 +1,41 @@
+  <!--The given is html code>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link  rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 id="heading1"> Customer Enquiry Survey Form </h1>
+    <br>
+
+    <pre>Date:    <textarea  placeholder="21/07/20XX"></textarea>           Customer Name:    <textarea  placeholder="Finn Alen"></textarea>    Customer ID:    <textarea  placeholder="EBFI20353C"></textarea>  </pre>
+
+<br>
+<hr>
+<div>Please Give right Answers to given Question </div>
+<hr>
+<br> 
+
+
+        <pre id="id2"> First Name:         <textarea name="John" id="first" placeholder="John" ></textarea>                                          Last Name:       <textarea name="John" id="first" placeholder="Cena " ></textarea></pre>
+
+        <br>
+        <pre id="id4"> Employement Status:      <select name="Employement" id="Employement"><option value="School Student">School Student</option><option value="College Student"> College Student</option>
+            <option value="Working Proffesional">Working Proffesional</option><option value="Chutiya">Chutiya </option>
+        </select>                                Product Category:       <select name="Category" id="Category" ><option >Food</option><option>Electronics Accesiories</option><option>Women's Dresss</option><option>Men's Wear</option><option>Kid's Wear</option></select></pre>
+<br>
+        <h3>Feedback</h3>
+        <label id="Feedback">
+            
+        <textarea name="Feedback" id="Feedback" Placeholder="Please Write The problem You are facing " class="Feedback"></textarea>
+    </label>
+    <br>
+    
+        <a href="thanks.html" taget="_main"><button>Submit</button></a>
+</html>
+</body>
+
 
