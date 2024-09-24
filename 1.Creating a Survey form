@@ -39,3 +39,90 @@
 </body>
 
 
+
+
+
+
+
+
+<!--The given is Css code -->
+h1{
+    font-style: initial;
+    font-family:Arial, Helvetica, sans-serif;
+}
+*{
+    font-family:Arial, Helvetica, sans-serif; 
+}
+div{
+    
+    text-align: center;
+    text-decoration-color: azure;
+}
+*{
+    background-color: rgba(80, 164, 233, 0.779);
+}
+#id2{
+    font-size: larger;
+   
+}
+#id4{
+    font-size: medium;
+}
+textarea{
+    font-size: medium;
+    text-align: left;
+    border-color: black;
+    border-radius: 5px;
+    
+    
+}
+textarea{
+    height: 30px;
+    width: 175px;
+}
+#Employement{
+    border-color: black;
+   border-radius: 5px;
+}
+select{
+    font-size: LARGER;
+}
+#Category{
+    border-color: black;
+   border-radius: 5px;
+}
+
+
+button{
+    border-radius: 6px;
+    padding-left: 40px;
+    padding-top: 9px;
+    padding-right: 40px;
+    padding-bottom: 9px;
+    font-style:inherit
+  
+}
+
+
+
+<it IS ALSO HTML CODE
+>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+      
+    
+</head>
+<body style=" background-color: rgba(11, 208, 143, 0.779);">
+    <pre><h1 style="font-family: Arial, Helvetica, sans-serif;">                                         Thanks For Visiting to Enquiry Page </h1></pre>
+    
+    <br>
+                   <h2 style="text-align: centre;">Our Team will respond to your response Very Soon
+        till Keep Exploring!!
+    </h2>
+</body>
+</html>
