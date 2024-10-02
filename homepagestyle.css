@@ -1,0 +1,35 @@
+div{
+    background-color: rgb(70, 135, 161);
+     height: 50px;
+     border-radius: 6px;
+     
+
+  
+}
+a{
+    
+    text-decoration: none;
+    margin-right: 60px;
+    margin-top: 10px;
+    
+}
+a{
+    color: black;
+    font-weight: 300;
+}
+
+
+button{
+    
+    margin-top: 10px;
+    margin-left: 10px;
+}
+input{
+    margin-left: 90px;
+    border-color: black;
+}
+body{
+    background-image: url("https://www.oberoihotels.com/-/media/oberoi-hotels/website-images/the-oberoi-amarvilas-agra/experiences/detail/dine-under-the-stars.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
